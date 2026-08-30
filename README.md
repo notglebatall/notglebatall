@@ -1,15 +1,18 @@
-### Привет, я Глеб!
+### Меня зовут Глеб
 
-Data Scientist и AI/ML-разработчик, сейчас учусь в магистратуре ВШЭ по искусственному интеллекту. Интересуюсь анализом данных, машинным обучением, NLP и созданием практичных продуктов для автоматизации.
+Я Data Scientist и ML-разработчик, сейчас учусь в магистратуре ФКН ВШЭ. Интересуюсь анализом данных, ML, NLP и различными ИИ-автоматизациями.
 
-В работе соединяю математическую подготовку и полный цикл разработки: от сбора и подготовки данных до обучения, оценки и внедрения моделей.
 
-✉️ Связаться со мной: [Telegram](https://t.me/ganbei) | [glsefadeev@edu.hse.ru](mailto:glsefadeev@edu.hse.ru)
+✉️ Мои контакты: [Telegram](https://t.me/ganbei) | [glsefadeev@edu.hse.ru](mailto:glsefadeev@edu.hse.ru)
 
-## Избранные проекты
+## Мои проекты
 
-| Проект | Описание | Направление |
-| --- | --- | --- |
+| Проект | Задача | Описание | Стек |
+| --- | --- | --- | --- |
+| Новостной мониторинг | Обучение и A/B-валидация промптов для LLM-судьи | — | — |
+|  | Разработка системы дедупликации новостей | — | — |
+| Хомяк | — | — | — |
+| SQL-агент для no-code запросов | — | — | — |
 
 ## Опыт работы
 
@@ -29,10 +32,11 @@ Data Scientist и AI/ML-разработчик, сейчас учусь в ма�
 
 | Направление | Инструменты и знания |
 | --- | --- |
-| Python | pandas, NumPy, matplotlib, PySpark, FastAPI, Flask, aiogram, asyncio, Selenium, BeautifulSoup, requests, aiohttp |
-| Данные и бэкенд | SQL, базы данных, ORM, PostgreSQL, Docker Compose |
-| Машинное обучение | Подготовка данных, обучение и валидация моделей, NLP-модели, A/B-тесты, продуктовые метрики |
-| Глубокое обучение и поиск | PyTorch, Transformers, LangChain, эмбеддинги, Elasticsearch, BM25, реранкеры |
+| Языки | Python, SQL |
+| ML и NLP | PyTorch, Transformers, MLflow<br>**LLM / Агенты:** LangChain, LangGraph, n8n<br>**RAG:** OpenSearch, BM25, эмбеддинги
+| Бэкенд / разработка | FastAPI, Flask, SQLAlchemy, PostgreSQL, asyncio, aiogram|
+| Сбор данных и автоматизация | Selenium, Beautiful Soup, requests, aiohttp |
+| Деплой | Docker, Kubernetes |
 
 ## Языки
 
