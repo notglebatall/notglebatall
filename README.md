@@ -12,7 +12,6 @@
     <tr>
       <th>Проект</th>
       <th>Задача</th>
-      <th>Описание</th>
       <th>Стек</th>
     </tr>
   </thead>
@@ -20,23 +19,19 @@
     <tr>
       <td rowspan="2">Новостной мониторинг</td>
       <td><a href="https://github.com/notglebatall/news-judge">Обучение и A/B-валидация промптов для LLM-судьи</a></td>
-      <td>—</td>
-      <td>—</td>
+      <td>A/B-тесты, LLM API</td>
     </tr>
     <tr>
       <td>Разработка системы дедупликации новостей</td>
-      <td>—</td>
-      <td>—</td>
+      <td>Эмбеддинги, sentence-transformers</td>
     </tr>
     <tr>
       <td>Инструмент AI-анализа нормативных документов</td>
       <td>—</td>
       <td>—</td>
-      <td>—</td>
     </tr>
     <tr>
       <td>SQL-агент для no-code запросов</td>
-      <td>—</td>
       <td>—</td>
       <td>—</td>
     </tr>
