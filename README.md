@@ -1,8 +1,5 @@
 ### Меня зовут Глеб
 
-Я Data Scientist и ML-разработчик, сейчас учусь в магистратуре ФКН ВШЭ. Интересуюсь анализом данных, ML, NLP и различными ИИ-автоматизациями.
-
-
 ✉️ Мои контакты: [Telegram](https://t.me/ganbei) | [glsefadeev@edu.hse.ru](mailto:glsefadeev@edu.hse.ru)
 
 ## Мои проекты
